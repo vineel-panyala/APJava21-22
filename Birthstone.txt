@@ -1,0 +1,12 @@
+garnet
+amethyst
+aquamarine
+diamond
+emerald
+pearl
+turquoise
+topaz
+sapphire
+opal
+topaz
+ruby
